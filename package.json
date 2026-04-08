@@ -1,0 +1,16 @@
+{
+  "name": "chatgpt-cn-recharge",
+  "version": "1.0.0",
+  "description": "ChatGPT充值中心 - 专业ChatGPT Plus/Pro代充值服务",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev",
+    "build": "vitepress build",
+    "preview": "vitepress preview"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.5",
+    "vitepress": "^1.6.3"
+  }
+}

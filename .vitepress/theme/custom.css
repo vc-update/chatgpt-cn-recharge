@@ -1,0 +1,99 @@
+/* ChatGPT充值中心 - 自定义主题样式 */
+
+:root {
+  /* 品牌绿色主色调 —— 与 ChatGPT 品牌色呼应 */
+  --vp-c-brand-1: #10a37f;
+  --vp-c-brand-2: #0d8c6d;
+  --vp-c-brand-3: #0a7a5e;
+  --vp-c-brand-soft: rgba(16, 163, 127, 0.14);
+
+  /* Hero 渐变背景 */
+  --vp-home-hero-name-color: transparent;
+  --vp-home-hero-name-background: -webkit-linear-gradient(120deg, #10a37f 30%, #1a7f64);
+
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #10a37f50 50%, #47d5a720 50%);
+  --vp-home-hero-image-filter: blur(44px);
+
+  /* 按钮 */
+  --vp-button-brand-border: transparent;
+  --vp-button-brand-text: #fff;
+  --vp-button-brand-bg: #10a37f;
+  --vp-button-brand-hover-border: transparent;
+  --vp-button-brand-hover-text: #fff;
+  --vp-button-brand-hover-bg: #0d8c6d;
+  --vp-button-brand-active-border: transparent;
+  --vp-button-brand-active-text: #fff;
+  --vp-button-brand-active-bg: #0a7a5e;
+}
+
+/* 暗色模式适配 */
+.dark {
+  --vp-c-brand-1: #3dd9a0;
+  --vp-c-brand-2: #10a37f;
+  --vp-c-brand-3: #0d8c6d;
+  --vp-c-brand-soft: rgba(61, 217, 160, 0.14);
+
+  --vp-home-hero-image-background-image: linear-gradient(-45deg, #10a37f30 50%, #47d5a710 50%);
+
+  --vp-button-brand-bg: #10a37f;
+  --vp-button-brand-hover-bg: #3dd9a0;
+  --vp-button-brand-active-bg: #0d8c6d;
+}
+
+/* Feature 卡片增强 */
+.VPFeature {
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.VPFeature:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.08);
+}
+
+/* 首页 Hero 区域标题强化 */
+.VPHero .name {
+  font-size: 2.5rem !important;
+}
+
+/* 移动端响应式 */
+@media (max-width: 768px) {
+  .VPHero .name {
+    font-size: 1.8rem !important;
+  }
+
+  .VPHero .text {
+    font-size: 1.2rem !important;
+  }
+
+  .VPHero .tagline {
+    font-size: 0.95rem !important;
+  }
+}
+
+@media (max-width: 480px) {
+  .VPHero .name {
+    font-size: 1.5rem !important;
+  }
+
+  .VPHero .text {
+    font-size: 1rem !important;
+  }
+
+  .VPFeature {
+    padding: 16px !important;
+  }
+}
+
+/* 内容区域优化 */
+.vp-doc h1 {
+  background: linear-gradient(120deg, #10a37f, #1a7f64);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* FAQ 样式增强 */
+.vp-doc h3 {
+  border-left: 3px solid var(--vp-c-brand-1);
+  padding-left: 12px;
+}
