@@ -155,6 +155,8 @@ export default defineConfig({
           text: '最新资讯',
           items: [
             { text: '资讯列表', link: '/news/' },
+            { text: '🆕 ChatGPT代充完整攻略：3种方式安全对比', link: '/news/chatgpt-daichong-wanzheng-gonglue-3zhong-fangshi-anquan-duibi-2026' },
+            { text: '🆕 ChatGPT Pro代充教程：国内怎么订阅Pro？', link: '/news/chatgpt-pro-daichong-jiaocheng-guonei-dingyue-2026' },
             { text: '🆕 ChatGPT代充值靠谱吗？亲测避坑指南', link: '/news/chatgpt-daichong-kaopuma-bikeng-zhinan-2026' },
             { text: '🆕 ChatGPT国内如何升级PLUS？最全代充指南', link: '/news/chatgpt-guonei-shengji-plus-daichong-zhinan-2026' },
             { text: '🆕 ChatGPT代充哪个平台靠谱？平台评测', link: '/news/chatgpt-daichong-pingtai-pingce-2026' },
