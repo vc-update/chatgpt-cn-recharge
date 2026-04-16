@@ -152,9 +152,11 @@ export default defineConfig({
       ],
       '/news/': [
         {
-          text: '最新资讯',
+          text: '🔥 最新文章',
           items: [
             { text: '资讯列表', link: '/news/' },
+            { text: '🆕 Pro代充安全吗？价格+步骤+防坑指南', link: '/news/chatgpt-pro-daichong-anquan-jiage-quanglue-2026' },
+            { text: '🆕 ChatGPT代充怎么操作？自助代充全流程', link: '/news/chatgpt-daichong-zenme-caozuo-zijhu-quanliu-2026' },
             { text: '🆕 ChatGPT代充完整攻略：3种方式安全对比', link: '/news/chatgpt-daichong-wanzheng-gonglue-3zhong-fangshi-anquan-duibi-2026' },
             { text: '🆕 ChatGPT Pro代充教程：国内怎么订阅Pro？', link: '/news/chatgpt-pro-daichong-jiaocheng-guonei-dingyue-2026' },
             { text: '🆕 ChatGPT代充值靠谱吗？亲测避坑指南', link: '/news/chatgpt-daichong-kaopuma-bikeng-zhinan-2026' },
@@ -162,21 +164,81 @@ export default defineConfig({
             { text: '🆕 ChatGPT代充哪个平台靠谱？平台评测', link: '/news/chatgpt-daichong-pingtai-pingce-2026' },
             { text: '🆕 ChatGPT代充后怎么用？Plus功能教程', link: '/news/chatgpt-daichong-plus-features-guide-2026' },
             { text: '🆕 【亲测可行】2026年4月ChatGPT代充教程', link: '/news/chatgpt-daichong-2026-newest-guide' },
-            { text: '🆕 Plus和免费版10大区别对比', link: '/news/chatgpt-plus-vs-free-qubie-2026' },
-            { text: 'ChatGPT国内怎么充值？代充方案全解析', link: '/news/chatgpt-china-how-to-recharge-2026' },
-            { text: 'ChatGPT Plus会员订阅全指南', link: '/news/chatgpt-plus-subscription-guide' },
-            { text: 'ChatGPT代充靠谱吗？5000+用户验证', link: '/news/chatgpt-daichong-reliable-review' },
-            { text: 'ChatGPT Plus充值失败？7个问题及解决', link: '/news/chatgpt-plus-recharge-failure-solutions' },
-            { text: 'ChatGPT Plus vs Pro vs Team对比', link: '/news/chatgpt-plus-vs-pro-vs-team-comparison' },
-            { text: 'ChatGPT代充值多少钱？价格渠道对比', link: '/news/chatgpt-daichong-price-comparison-2026' },
-            { text: 'ChatGPT代充安全吗？亲测3个月真实经验', link: '/news/chatgpt-daichong-anquan-fengxian-fenghao-2026' },
-            { text: 'ChatGPT 5.4深度评测', link: '/news/chatgpt-gpt54-review-2026' },
-            { text: 'ChatGPT怎么充值？5种方式真实对比', link: '/news/chatgpt-chongzhi-fangshi-duibi-2026' },
-            { text: '【亲测】ChatGPT PLUS/PRO代充完整指南', link: '/news/chatgpt-plus-pro-recharge-tutorial-2026' },
-            { text: 'ChatGPT免费版和Plus版区别对比', link: '/news/chatgpt-free-vs-plus-comparison' },
-            { text: 'ChatGPT会员哪个值得买？全套餐横评', link: '/news/chatgpt-membership-comparison-2026' },
+            { text: '🆕 Plus和免费版10大区别完整对比', link: '/news/chatgpt-plus-vs-free-qubie-2026' },
           ]
-        }
+        },
+        {
+          text: '📚 代充教程',
+          items: [
+            { text: 'ChatGPT国内怎么充值？代充方案全解析', link: '/news/chatgpt-china-how-to-recharge-2026' },
+            { text: 'ChatGPT代充靠谱吗？5000+用户验证', link: '/news/chatgpt-daichong-reliable-review' },
+            { text: 'ChatGPT代充安全吗？封号风险解析', link: '/news/chatgpt-daichong-anquan-fengxian-fenghao-2026' },
+            { text: 'ChatGPT代充常见骗局大揭秘', link: '/news/chatgpt-recharge-scam-guide' },
+            { text: 'ChatGPT代充行业真相揭秘', link: '/news/chatgpt-daichong-industry-truth-2026' },
+            { text: 'ChatGPT代充值（支付宝/微信）攻略', link: '/news/chatgpt-daichongzhi-gonglue-zhifubao-weixin-2026' },
+            { text: '【亲测】ChatGPT PLUS/PRO代充完整指南', link: '/news/chatgpt-plus-pro-recharge-tutorial-2026' },
+            { text: 'ChatGPT怎么充值？5种方式真实对比', link: '/news/chatgpt-chongzhi-fangshi-duibi-2026' },
+            { text: '2026年ChatGPT充值教程：国内5种方式', link: '/news/chatgpt-recharge-guide-2026' },
+            { text: 'ChatGPT代充值安全吗？靠谱平台怎么选', link: '/news/chatgpt-recharge-safety' },
+            { text: 'ChatGPT国内能用吗？完整使用攻略', link: '/news/chatgpt-china-guide' },
+          ]
+        },
+        {
+          text: '💰 价格与套餐',
+          items: [
+            { text: 'ChatGPT代充值多少钱？价格渠道对比', link: '/news/chatgpt-daichong-price-comparison-2026' },
+            { text: 'ChatGPT Plus代充价格完整指南', link: '/news/chatgpt-plus-recharge-price-guide' },
+            { text: 'ChatGPT Plus vs Pro vs Team怎么选？', link: '/news/chatgpt-plus-vs-pro-vs-team-comparison' },
+            { text: 'ChatGPT会员哪个值得买？全套餐横评', link: '/news/chatgpt-membership-comparison-2026' },
+            { text: 'ChatGPT Plus和Pro区别对比', link: '/news/chatgpt-plus-vs-pro' },
+            { text: 'ChatGPT Team vs Plus vs Pro对比', link: '/news/chatgpt-team-vs-plus-vs-pro' },
+            { text: 'ChatGPT Pro值得买吗？$200/月深度评测', link: '/news/chatgpt-pro-worth-it-2026' },
+            { text: 'ChatGPT Plus值得买吗？深度体验评价', link: '/news/chatgpt-plus-worth-it' },
+          ]
+        },
+        {
+          text: '📖 订阅与充值',
+          items: [
+            { text: 'ChatGPT Plus会员订阅全指南', link: '/news/chatgpt-plus-subscription-guide' },
+            { text: 'ChatGPT Plus充值失败？7个解决方案', link: '/news/chatgpt-plus-recharge-failure-solutions' },
+            { text: 'ChatGPT充值被拒？8种原因及解决', link: '/news/chatgpt-recharge-declined-solutions' },
+            { text: 'ChatGPT订阅付款失败完整解决方案', link: '/news/chatgpt-subscription-payment-failed-guide' },
+            { text: '2026年ChatGPT Plus充值攻略（全四种）', link: '/news/chatgpt-plus-recharge-guide-2026' },
+            { text: 'ChatGPT Plus代充后如何验证升级成功？', link: '/news/chatgpt-plus-after-recharge-verification' },
+            { text: 'ChatGPT Plus代充一次能用多久？续费详解', link: '/news/chatgpt-plus-recharge-duration-renewal' },
+            { text: 'ChatGPT Plus会员到期了怎么续费？', link: '/news/chatgpt-plus-renewal-guide' },
+            { text: 'ChatGPT Plus订阅怎么取消？退款全教程', link: '/news/chatgpt-cancel-subscription-refund' },
+            { text: 'ChatGPT企业版Team/Enterprise充值教程', link: '/news/chatgpt-team-enterprise-recharge-guide' },
+            { text: 'ChatGPT API充值教程：国内开发者指南', link: '/news/chatgpt-api-recharge-guide' },
+          ]
+        },
+        {
+          text: '🚀 功能与使用',
+          items: [
+            { text: 'ChatGPT Plus一个月能用多少次？额度指南', link: '/news/chatgpt-plus-usage-limits-guide' },
+            { text: 'ChatGPT免费版和Plus版区别完整对比', link: '/news/chatgpt-free-vs-plus-comparison' },
+            { text: 'ChatGPT 5.4深度评测：最强AI模型', link: '/news/chatgpt-gpt54-review-2026' },
+            { text: 'GPT-5来了！Plus用户能用GPT-5吗？', link: '/news/chatgpt-gpt5-plus-features' },
+            { text: 'ChatGPT o3和o4-mini使用完整指南', link: '/news/chatgpt-o3-o4-mini-guide' },
+            { text: 'ChatGPT 4o怎么用？免费版和Plus区别', link: '/news/chatgpt-4o-guide' },
+            { text: '用ChatGPT写论文：学生党升级Plus指南', link: '/news/chatgpt-plus-for-students-writing-guide' },
+          ]
+        },
+        {
+          text: '👤 账号与安全',
+          items: [
+            { text: 'ChatGPT账号注册教程：国内3分钟完成', link: '/news/chatgpt-register-guide-china-2026' },
+            { text: '没有账号怎么代充？从注册到充值教程', link: '/news/chatgpt-register-then-recharge-guide' },
+            { text: 'ChatGPT账号安全和封号风险完整指南', link: '/news/chatgpt-account-security-ban-guide' },
+            { text: 'ChatGPT Plus学生优惠？省钱充值攻略', link: '/news/chatgpt-student-discount-guide' },
+          ]
+        },
+        {
+          text: '📰 行业资讯',
+          items: [
+            { text: '2026年ChatGPT最新动态：OpenAI重大更新', link: '/news/openai-chatgpt-updates-timeline-2026' },
+          ]
+        },
       ],
       '/service/': [
         {
