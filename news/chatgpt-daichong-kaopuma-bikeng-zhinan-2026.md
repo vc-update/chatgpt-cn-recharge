@@ -159,7 +159,7 @@ head:
 |:----|:---------|:-----|
 | Token代充（不要密码）| ✅ 纯Token代充，不需要任何密码 | ⭐⭐⭐⭐⭐ |
 | 价格合理 | ✅ Plus 120元/月，透明定价 | ⭐⭐⭐⭐⭐ |
-| 自助下单系统 | ✅ [shop.gptbuy.store](https://shop.gptbuy.store) 24小时可用 | ⭐⭐⭐⭐⭐ |
+| 自助下单系统 | ✅ [shop.gptbuy.store](https://gptbuys.com/?ref=SNAKE) 24小时可用 | ⭐⭐⭐⭐⭐ |
 | 客服售后 | ✅ 微信客服 **Luv12203**，响应快 | ⭐⭐⭐⭐⭐ |
 | 用户口碑 | ✅ 5000+用户，零封号记录 | ⭐⭐⭐⭐⭐ |
 
@@ -191,7 +191,7 @@ head:
 
 ### 第1步：打开自助商城
 
-访问 [shop.gptbuy.store](https://shop.gptbuy.store)，选择"ChatGPT Plus月付"。
+访问 [shop.gptbuy.store](https://gptbuys.com/?ref=SNAKE)，选择"ChatGPT Plus月付"。
 
 ### 第2步：支付宝/微信付款
 
@@ -273,7 +273,7 @@ GPTBuy承诺未到账全额退款。联系微信客服 **Luv12203** 提供订单
 <div class="wechat-cta">
   <div class="text">
     <h3>🛡️ GPTBuy - 亲测靠谱的ChatGPT代充平台</h3>
-    <p>🛒 自助下单：<a href="https://shop.gptbuy.store" target="_blank"><strong>shop.gptbuy.store</strong></a>（24小时）</p>
+    <p>🛒 自助下单：<a href="https://gptbuys.com/?ref=SNAKE" target="_blank"><strong>shop.gptbuy.store</strong></a>（24小时）</p>
     <p>💬 微信客服：<strong>Luv12203</strong>（有问题随时找）</p>
     <p>💰 Plus 120元/月 ｜ Token代充不要密码 ｜ 1分钟到账</p>
   </div>

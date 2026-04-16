@@ -128,7 +128,7 @@ Token代充的流程：
 | 支付方式 | **支付宝 / 微信** 扫码直付 |
 | 安全记录 | 5000+用户，**零封号** |
 | 售后服务 | 微信客服 **Luv12203**，9:00-23:00在线 |
-| 自助商城 | [shop.gptbuy.store](https://shop.gptbuy.store) 24小时下单 |
+| 自助商城 | [shop.gptbuy.store](https://gptbuys.com/?ref=SNAKE) 24小时下单 |
 
 ### 4.2 GPTBuy支持的充值套餐
 
@@ -149,7 +149,7 @@ Token代充的流程：
 
 **第1步：打开GPTBuy自助商城**
 
-访问 [shop.gptbuy.store](https://shop.gptbuy.store)，选择你要充值的套餐（如"ChatGPT Plus月付"）。
+访问 [shop.gptbuy.store](https://gptbuys.com/?ref=SNAKE)，选择你要充值的套餐（如"ChatGPT Plus月付"）。
 
 **第2步：支付宝/微信扫码付款**
 
@@ -273,7 +273,7 @@ $20约合人民币145元（按2026年4月汇率）。GPTBuy定价120元/月，**
 <div class="wechat-cta">
   <div class="text">
     <h3>🔥 GPTBuy - 国内最稳ChatGPT代充平台</h3>
-    <p>🛒 自助下单：<a href="https://shop.gptbuy.store" target="_blank"><strong>shop.gptbuy.store</strong></a>（24小时）</p>
+    <p>🛒 自助下单：<a href="https://gptbuys.com/?ref=SNAKE" target="_blank"><strong>shop.gptbuy.store</strong></a>（24小时）</p>
     <p>💬 微信客服：<strong>Luv12203</strong>（9:00-23:00在线）</p>
     <p>💰 Plus会员120元/月 ｜ 支付宝/微信直付 ｜ 1分钟到账</p>
   </div>

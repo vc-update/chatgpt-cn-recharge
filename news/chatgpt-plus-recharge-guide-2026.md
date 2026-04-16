@@ -51,7 +51,7 @@ OpenAI在支付端对国内用户设了重重关卡：
 
 #### 第1步：打开充值商城
 
-访问 [GPTBuy自助充值商城](https://shop.gptbuy.store/)，点击「立刻充值」按钮。
+访问 [GPTBuy自助充值商城](https://gptbuys.com/?ref=SNAKE)，点击「立刻充值」按钮。
 
 #### 第2步：选择套餐并支付
 
@@ -260,7 +260,7 @@ A：如果使用代充平台遇到问题，可以联系客服微信 **Luv12203**
 - ✅ 安全性最高：不需要账号密码
 - ✅ 成功率最高：99%
 
-👉 **立即充值**：[GPTBuy自助充值商城](https://shop.gptbuy.store/)
+👉 **立即充值**：[GPTBuy自助充值商城](https://gptbuys.com/?ref=SNAKE)
 
 遇到任何问题，联系客服微信 **Luv12203**，我们随时为你服务。
 

@@ -172,7 +172,7 @@ Plus用户每天有约50次o3使用额度，Pro用户无限使用。对于大部
 
 国内用户最简单的方式：
 
-👉 **[GPTBuy 自助充值商城](https://shop.gptbuy.store/)**
+👉 **[GPTBuy 自助充值商城](https://gptbuys.com/?ref=SNAKE)**
 
 - ChatGPT Plus **120元/月**
 - 支付宝/微信直付

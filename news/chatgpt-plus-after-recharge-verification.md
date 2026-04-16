@@ -178,7 +178,7 @@ outline: deep
 
 到期前重复以下流程即可：
 
-1. 打开 [shop.gptbuy.store](https://shop.gptbuy.store/)
+1. 打开 [shop.gptbuy.store](https://gptbuys.com/?ref=SNAKE)
 2. 选择ChatGPT Plus
 3. 支付宝/微信付款120元
 4. 获取卡密
@@ -195,7 +195,7 @@ outline: deep
 
 如果遇到异常，99%的情况通过刷新/重新登录就能解决。1%的疑难问题联系客服处理。
 
-👉 **还没充值？** [GPTBuy 自助充值商城](https://shop.gptbuy.store/) — ChatGPT Plus **120元/月**
+👉 **还没充值？** [GPTBuy 自助充值商城](https://gptbuys.com/?ref=SNAKE) — ChatGPT Plus **120元/月**
 📱 **客服微信**：Luv12203
 
 ---

@@ -89,13 +89,13 @@ Plus会员的各模型使用额度远高于免费版：
 
 ### 4.1 推荐方式：Token自助代充
 
-👉 **平台**：[GPTBuy 自助充值商城](https://shop.gptbuy.store/)
+👉 **平台**：[GPTBuy 自助充值商城](https://gptbuys.com/?ref=SNAKE)
 💰 **价格**：ChatGPT Plus **120元/月**
 💳 **支付**：支付宝、微信
 
 **充值步骤**：
 
-**Step 1** — 打开 [shop.gptbuy.store](https://shop.gptbuy.store/)，选择ChatGPT Plus
+**Step 1** — 打开 [shop.gptbuy.store](https://gptbuys.com/?ref=SNAKE)，选择ChatGPT Plus
 
 **Step 2** — 支付宝/微信扫码付款
 
@@ -138,7 +138,7 @@ Plus会员的各模型使用额度远高于免费版：
 
 ### 5.2 续费Plus
 
-**通过代充订阅的用户**：到期前3天再次在 [GPTBuy](https://shop.gptbuy.store/) 下单充值即可。建议设个日历提醒。
+**通过代充订阅的用户**：到期前3天再次在 [GPTBuy](https://gptbuys.com/?ref=SNAKE) 下单充值即可。建议设个日历提醒。
 
 **通过官方直充的用户**：如果绑了信用卡，会自动续费。
 
@@ -208,9 +208,9 @@ ChatGPT Plus订阅的核心信息：
 - **价格**：$20/月，国内代充120元/月
 - **核心价值**：GPT-5.4 + AI Agent + DALL·E + 高额度
 - **国内充值**：Token自助代充，5分钟搞定，安全不封号
-- **推荐平台**：[GPTBuy](https://shop.gptbuy.store/) | 客服微信：Luv12203
+- **推荐平台**：[GPTBuy](https://gptbuys.com/?ref=SNAKE) | 客服微信：Luv12203
 
-👉 **[立即充值ChatGPT Plus →](https://shop.gptbuy.store/)**
+👉 **[立即充值ChatGPT Plus →](https://gptbuys.com/?ref=SNAKE)**
 
 ---
 

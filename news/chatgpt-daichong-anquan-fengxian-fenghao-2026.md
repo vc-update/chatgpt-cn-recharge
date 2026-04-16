@@ -28,7 +28,7 @@ outline: deep
 
 ### 正规代充的流程
 
-目前主流的正规代充平台（比如 [GPTBuy](https://shop.gptbuy.store/)）使用的是 **Token认证** 模式：
+目前主流的正规代充平台（比如 [GPTBuy](https://gptbuys.com/?ref=SNAKE)）使用的是 **Token认证** 模式：
 
 1. 你在平台上下单并支付（支付宝/微信）
 2. 平台给你一串**卡密**
@@ -72,7 +72,7 @@ OpenAI封号的原因通常有以下几种：
 
 ### 我自己的经历
 
-- 2025年12月：首次通过 [GPTBuy](https://shop.gptbuy.store/) 代充Plus ✅
+- 2025年12月：首次通过 [GPTBuy](https://gptbuys.com/?ref=SNAKE) 代充Plus ✅
 - 2026年1月：续充第二个月 ✅
 - 2026年2月：续充第三个月 ✅
 - 2026年3月：续充第四个月 ✅
@@ -119,7 +119,7 @@ OpenAI封号的原因通常有以下几种：
 
 ### GPTBuy 自助充值商城
 
-- **网址**：[shop.gptbuy.store](https://shop.gptbuy.store/)
+- **网址**：[shop.gptbuy.store](https://gptbuys.com/?ref=SNAKE)
 - **价格**：ChatGPT Plus **120元/月**
 - **充值方式**：Token模式，**不需要账号密码**
 - **支付方式**：支付宝、微信
@@ -217,7 +217,7 @@ Plus到期后自动变回免费版。你的账号、聊天记录、创建的GPTs
 |------|------|
 | 安全吗？ | ✅ Token模式的代充是安全的，不需要密码 |
 | 会封号吗？ | ✅ 正规平台不会，黑卡平台会 |
-| 靠谱吗？ | ✅ 选对平台就靠谱，推荐 [GPTBuy](https://shop.gptbuy.store/) |
+| 靠谱吗？ | ✅ 选对平台就靠谱，推荐 [GPTBuy](https://gptbuys.com/?ref=SNAKE) |
 | 值得用吗？ | ✅ 国内没有海外信用卡的用户，这是最优解 |
 
 **一句话总结：ChatGPT代充本身没问题，关键是选对平台。选Token模式、价格合理、有客服的平台，放心用。**

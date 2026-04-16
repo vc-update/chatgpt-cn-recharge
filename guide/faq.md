@@ -69,7 +69,7 @@ head:
 2. 使用邮箱创建账号
 3. 验证邮箱完成注册
 
-注册完成后，即可通过我们的[自助充值商城](https://shop.gptbuy.store/)充值Plus会员。如果注册过程中遇到困难，也可以联系客服微信 **Luv12203** 获取指导。
+注册完成后，即可通过我们的[自助充值商城](https://gptbuys.com/?ref=SNAKE)充值Plus会员。如果注册过程中遇到困难，也可以联系客服微信 **Luv12203** 获取指导。
 
 [→ 从注册到充值一站式教程](/news/chatgpt-register-then-recharge-guide)
 
@@ -87,7 +87,7 @@ head:
 
 取消后，您仍然可以在当前计费周期结束前继续使用高级功能。例如，如果您在3月15日充值的Plus会员，即使在3月20日取消续订，仍然可以使用到4月14日。
 
-如果下个月想继续使用，可以再次通过[自助商城](https://shop.gptbuy.store/)充值。
+如果下个月想继续使用，可以再次通过[自助商城](https://gptbuys.com/?ref=SNAKE)充值。
 
 ---
 
@@ -154,7 +154,7 @@ ChatGPT目前尚未在中国大陆正式开放，在国内使用需要：
 如果以上内容没有解答您的疑问，欢迎联系客服：
 
 - 💬 **微信客服**：Luv12203
-- 🛒 **自助充值**：[shop.gptbuy.store](https://shop.gptbuy.store/)
+- 🛒 **自助充值**：[shop.gptbuy.store](https://gptbuys.com/?ref=SNAKE)
 - ⏰ **在线时间**：每天 9:00 - 23:00
 
-👉 [立即充值 Plus（120元/月）](https://shop.gptbuy.store/) | [充值流程详解](/guide/recharge-process) | [Plus vs Pro 对比](/news/chatgpt-plus-vs-pro-vs-team-comparison)
+👉 [立即充值 Plus（120元/月）](https://gptbuys.com/?ref=SNAKE) | [充值流程详解](/guide/recharge-process) | [Plus vs Pro 对比](/news/chatgpt-plus-vs-pro-vs-team-comparison)

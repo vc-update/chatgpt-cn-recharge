@@ -146,7 +146,7 @@ Prompt示例：
 
 ### 4.1 推荐方案：Token自助代充
 
-👉 **[GPTBuy 自助充值商城](https://shop.gptbuy.store/)**
+👉 **[GPTBuy 自助充值商城](https://gptbuys.com/?ref=SNAKE)**
 
 - ChatGPT Plus **120元/月**
 - 支付宝/微信直付（学生最方便）
@@ -166,7 +166,7 @@ Prompt示例：
 
 ### 4.3 充值步骤
 
-1. 打开 [shop.gptbuy.store](https://shop.gptbuy.store/)
+1. 打开 [shop.gptbuy.store](https://gptbuys.com/?ref=SNAKE)
 2. 选ChatGPT Plus套餐
 3. 支付宝扫码付120元
 4. 获取卡密
@@ -232,7 +232,7 @@ ChatGPT Plus对学生党的价值：
 
 **120元/月 = 一个不会累的全能学术助手。**
 
-👉 **[立即充值ChatGPT Plus →](https://shop.gptbuy.store/)**
+👉 **[立即充值ChatGPT Plus →](https://gptbuys.com/?ref=SNAKE)**
 📱 **客服微信**：Luv12203
 
 ---

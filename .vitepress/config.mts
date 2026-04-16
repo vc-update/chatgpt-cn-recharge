@@ -190,7 +190,7 @@ export default defineConfig({
     },
 
     footer: {
-      message: '微信客服：Luv12203 ｜ 每天 9:00-23:00 在线 ｜ <a href="https://shop.gptbuy.store/" target="_blank">自助充值商城</a>',
+      message: '微信客服：Luv12203 ｜ 每天 9:00-23:00 在线 ｜ <a href="https://gptbuys.com/?ref=SNAKE" target="_blank">自助充值商城</a>',
       copyright: '© 2024-2026 ChatGPT代充 - GPTBuy | chatgpt-cn-recharge.com'
     },
 

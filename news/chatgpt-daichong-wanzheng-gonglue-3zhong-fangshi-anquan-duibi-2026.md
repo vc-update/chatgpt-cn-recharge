@@ -129,7 +129,7 @@ ChatGPT Plus官方订阅价格是$20/月（约￥145），但问题是：
 
 ### 第1步：打开自助商城，选择套餐下单
 
-访问 [GPTBuy自助充值商城](https://shop.gptbuy.store/)，选择 **ChatGPT Plus（120元/月）** 套餐。
+访问 [GPTBuy自助充值商城](https://gptbuys.com/?ref=SNAKE)，选择 **ChatGPT Plus（120元/月）** 套餐。
 
 用支付宝或微信扫码付款。下单后系统自动发货，你会收到一个充值页面链接。
 
@@ -280,7 +280,7 @@ Pro会员（$200/月）金额较大，目前走客服人工处理。联系微信
 
 ---
 
-👉 [**立即自助充值 ChatGPT Plus（120元/月）**](https://shop.gptbuy.store/)
+👉 [**立即自助充值 ChatGPT Plus（120元/月）**](https://gptbuys.com/?ref=SNAKE)
 
 **客服微信**：Luv12203 ｜ 每天 9:00-23:00 在线
 

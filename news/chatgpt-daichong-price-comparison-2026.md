@@ -174,7 +174,7 @@ Pro的代充价格不是固定的，联系客服可能有更好的方案。
 
 ### ChatGPT Plus代充
 
-👉 **[GPTBuy 自助充值商城](https://shop.gptbuy.store/)** — **120元/月**
+👉 **[GPTBuy 自助充值商城](https://gptbuys.com/?ref=SNAKE)** — **120元/月**
 
 - 支付宝/微信直付
 - Token模式，不需要密码

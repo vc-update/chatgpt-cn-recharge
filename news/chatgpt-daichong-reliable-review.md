@@ -134,7 +134,7 @@ Token方式下，代充平台只获得一个临时凭证，**无法**：
 
 ### 3.3 推荐平台
 
-经过实际验证，推荐使用 **[GPTBuy 自助充值商城](https://shop.gptbuy.store/)**：
+经过实际验证，推荐使用 **[GPTBuy 自助充值商城](https://gptbuys.com/?ref=SNAKE)**：
 
 - ChatGPT Plus **120元/月**
 - Token自助模式，不需要密码
@@ -196,7 +196,7 @@ Token方式下，代充平台只获得一个临时凭证，**无法**：
 
 选对方式是关键。2026年的最优解：
 
-👉 **[GPTBuy 自助充值商城](https://shop.gptbuy.store/)** — 120元/月 — 支付宝微信 — 5分钟搞定
+👉 **[GPTBuy 自助充值商城](https://gptbuys.com/?ref=SNAKE)** — 120元/月 — 支付宝微信 — 5分钟搞定
 📱 **客服微信**：Luv12203
 
 ---
