@@ -155,6 +155,8 @@ export default defineConfig({
           text: '🔥 最新文章',
           items: [
             { text: '资讯列表', link: '/news/' },
+            { text: '🆕 代充会封号吗？2026封号真相+零封号指南', link: '/news/chatgpt-daichong-fenghao-fengxian-zhensiang-2026' },
+            { text: '🆕 代充多久到账？到账时间详解+慢了怎么办', link: '/news/chatgpt-daichong-duojiu-daozh-daozh-shuoming-2026' },
             { text: '🆕 Pro代充安全吗？价格+步骤+防坑指南', link: '/news/chatgpt-pro-daichong-anquan-jiage-quanglue-2026' },
             { text: '🆕 ChatGPT代充怎么操作？自助代充全流程', link: '/news/chatgpt-daichong-zenme-caozuo-zijhu-quanliu-2026' },
             { text: '🆕 ChatGPT代充完整攻略：3种方式安全对比', link: '/news/chatgpt-daichong-wanzheng-gonglue-3zhong-fangshi-anquan-duibi-2026' },
