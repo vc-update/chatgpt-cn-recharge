@@ -155,6 +155,9 @@ export default defineConfig({
           text: '🔥 最新文章',
           items: [
             { text: '资讯列表', link: '/news/' },
+            { text: '🆕 充值哪种方法最安全？4种方式安全对比', link: '/news/chatgpt-plus-chongzhi-na-zhong-fangfa-zui-anquan-2026' },
+            { text: '🆕 2026年4月最新充值攻略：4种方法亲测对比', link: '/news/chatgpt-plus-chongzhi-gonglue-2026-zuixin-si-zhong-jiaocheng' },
+            { text: '🆕 第一次代充怎么做？新手零失误完整指南', link: '/news/chatgpt-daichong-di-yi-ci-xin-shou-wan-quan-zhinan-2026' },
             { text: '🆕 代充会封号吗？2026封号真相+零封号指南', link: '/news/chatgpt-daichong-fenghao-fengxian-zhensiang-2026' },
             { text: '🆕 代充多久到账？到账时间详解+慢了怎么办', link: '/news/chatgpt-daichong-duojiu-daozh-daozh-shuoming-2026' },
             { text: '🆕 Pro代充安全吗？价格+步骤+防坑指南', link: '/news/chatgpt-pro-daichong-anquan-jiage-quanglue-2026' },
