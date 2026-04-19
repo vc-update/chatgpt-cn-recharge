@@ -28,7 +28,7 @@ head:
 
 **这篇指南专门写给第一次代充的人**，把每一个步骤、每一个注意事项全部讲清楚——读完这篇，你就能零失误地完成人生第一次ChatGPT代充。
 
-![第一次代充ChatGPT Plus 新手完整教程](https://placehold.co/900x340/10a37f/ffffff.png?text=%E7%AC%AC%E4%B8%80%E6%AC%A1%E4%BB%A3%E5%85%85+ChatGPT+Plus%0A4%E6%AD%A5%E6%90%9E%E5%AE%9A+%EF%BC%9A+%E4%B8%8B%E5%8D%95+%E2%86%92+%E8%8E%B7%E5%8F%96Token+%E2%86%92+%E6%8F%90%E4%BA%A4%E5%85%85%E5%80%BC+%E2%86%92+%E9%AA%8C%E8%AF%81%E6%88%90%E5%8A%9F%0A%E5%85%A8%E7%A8%8B%E4%B8%8D%E9%9C%80%E8%A6%81%E5%AF%86%E7%A0%81+%7C+%E6%94%AF%E4%BB%98%E5%AE%9D%2F%E5%BE%AE%E4%BF%A1+120%E5%85%83%2F%E6%9C%88)
+![第一次代充ChatGPT Plus 新手完整教程](/images/guide-steps.jpg)
 
 ---
 
@@ -45,7 +45,7 @@ head:
 
 ### 代充 vs 自己充值，哪个更省钱？
 
-![ChatGPT代充 vs 自己充值方式成本对比](https://placehold.co/860x260/f8f9fa/333333.png?text=%E5%A4%9A%E7%A7%8D%E5%85%85%E5%80%BC%E6%96%B9%E5%BC%8F%E6%88%90%E6%9C%AC%E5%AF%B9%E6%AF%94%0AToken%E4%BB%A3%E5%85%85+120%E5%85%83+%7C+%E8%99%9A%E6%8B%9F%E4%BF%A1%E7%94%A8%E5%8D%A1+150-170%E5%85%83+%7C+Apple%E7%A4%BC%E5%93%81%E5%8D%A1+160-180%E5%85%83)
+![代充 vs 虚拟信用卡 vs Apple礼品卡成本对比](/images/mobile-payment.jpg)
 
 | 方式 | 价格 | 操作难度 | 成功率 |
 |------|------|---------|--------|
