@@ -123,6 +123,7 @@ export default defineConfig({
       {
         text: '💳 ChatGPT充值服务',
         items: [
+          { text: '2026年最新ChatGPT会员开通攻略：国内用户完整充值指南', link: '/guide/chatgpt-huiyuan-chongzhi-zhinan-2026-04' },
           { text: '2026年最新ChatGPT Plus充值攻略：国内用户如何安全完成充值', link: '/guide/chatgpt-plus-chongzhi-guide-2026-04' },
           { text: 'ChatGPT充值完整指南（2026年4月更新）｜国内代充教程', link: '/guide/chatgpt-chongzhi-guide-2026-04' },
           { text: 'Plus会员充值（120元/月）', link: '/service/plus' },
